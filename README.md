@@ -7,3 +7,5 @@ This dataset (https://www.kaggle.com/santoshd3/bank-customers) contain some cust
 2) Determine the target audience that are more likely to churn. (via unsupervised learning)
 
 By doing the 2 methods above, we can target a specific group of people to understand their behaviour/reasons for churn instead of targetting the whole cluster, which would save cost in the long run.
+
+Alternate link to view the jupyter notebook: https://nbviewer.jupyter.org/github/tongzxc/Techforshe-Customer-Analytics/blob/master/Customer_analysis.ipynb
