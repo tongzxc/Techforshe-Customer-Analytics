@@ -2,7 +2,7 @@
 
 This dataset (https://www.kaggle.com/santoshd3/bank-customers) contain some customers who are withdrawing their account from the bank due to certain issues. Hence, by analysing this set of data, we hope to be able to achieve certain objectives:
 
-1) Fit the observervation through a model and understand the factors that may influence the customer churn. (via supervised learning)
+1) Fit the observations through a model and understand the factors that may influence the customer churn. (via supervised learning)
 
 2) Determine the target audience that are more likely to churn. (via unsupervised learning)
 
